@@ -1,4 +1,4 @@
-### Amazon EC2 (Elastic Compute Cloud) - Beginner's Guide
+### Amazon EC2 (Elastic Compute Cloud)
 
 **What is Amazon EC2?**
 
