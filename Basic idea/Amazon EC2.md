@@ -11,6 +11,7 @@ Amazon EC2 (Elastic Compute Cloud) is a web service provided by AWS (Amazon Web 
 2. **AMI (Amazon Machine Image)**: A pre-configured template used to launch an EC2 instance. AMIs can include the operating system, application server, and applications.
 
 3. **Instance Types**: EC2 offers a variety of instance types, each designed for specific use cases. For example:
+
    - **t2.micro**: Suitable for low-traffic websites or small-scale applications.
    - **m5.large**: Balanced computing, memory, and networking resources for general-purpose applications.
 
@@ -41,6 +42,7 @@ Amazon EC2 (Elastic Compute Cloud) is a web service provided by AWS (Amazon Web 
 1. **Sign Up for AWS**: If you don't have an AWS account, sign up at [aws.amazon.com](https://aws.amazon.com).
 
 2. **Launch an Instance**:
+
    - Log in to the AWS Management Console.
    - Navigate to the EC2 dashboard and click "Launch Instance."
    - Choose an AMI (e.g., Amazon Linux 2).
@@ -48,7 +50,8 @@ Amazon EC2 (Elastic Compute Cloud) is a web service provided by AWS (Amazon Web 
    - Configure instance details, including security groups and storage.
    - Review and launch the instance.
 
-3. **Connect to Your Instance**: 
+3. **Connect to Your Instance**:
+
    - Use SSH (for Linux instances) or RDP (for Windows instances) to connect to your EC2 instance.
    - Once connected, you can install software, configure your server, and deploy applications.
 
